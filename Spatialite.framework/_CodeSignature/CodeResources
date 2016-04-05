@@ -74,79 +74,198 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		YVcWXJDsgmHn6My3Fx+XyVVpCyk=
+		HzKfdXyuMPDrRAPiAtojYyvPeoM=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/FMDB.h</key>
-		<data>
-		xceJ4tfa/qMtJSZE8L5nh4UE5v8=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			xceJ4tfa/qMtJSZE8L5nh4UE5v8=
+			</data>
+			<key>hash2</key>
+			<data>
+			7zvTS+7x2me7K4kXjP7aOi7nyBrXe7rDMdz8zXOGcxg=
+			</data>
+		</dict>
 		<key>Headers/FMDatabase.h</key>
-		<data>
-		LgnoylxZ+bcb/owNIxqq4gGoVEw=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			LgnoylxZ+bcb/owNIxqq4gGoVEw=
+			</data>
+			<key>hash2</key>
+			<data>
+			dGghlnqV8lEfCpMOiGscJ9GqveZBZ040qtJw69WiuKM=
+			</data>
+		</dict>
 		<key>Headers/FMDatabaseAdditions.h</key>
-		<data>
-		oxakWMD8TPDVTYCJyPm67yj4T9w=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			oxakWMD8TPDVTYCJyPm67yj4T9w=
+			</data>
+			<key>hash2</key>
+			<data>
+			L6Qk7yDD0qRFZRs5aX/3iOBIaHRNbNqwi+dmhzFnGV4=
+			</data>
+		</dict>
 		<key>Headers/FMDatabasePool.h</key>
-		<data>
-		fhka1W8UmwhDZ33/XZQWcB+RNmM=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			fhka1W8UmwhDZ33/XZQWcB+RNmM=
+			</data>
+			<key>hash2</key>
+			<data>
+			sdjbxYQ4BwC9fANl93fkKUXhjwkZ5hxqcj+NiCnMsgc=
+			</data>
+		</dict>
 		<key>Headers/FMDatabaseQueue.h</key>
-		<data>
-		NoKI7kTu+rSPvGAaqdnIQTra6fc=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			NoKI7kTu+rSPvGAaqdnIQTra6fc=
+			</data>
+			<key>hash2</key>
+			<data>
+			W9tPy4KP+kzwvOKAlSzialdfpzGDDoYHCK7zcn3T3iQ=
+			</data>
+		</dict>
 		<key>Headers/FMResultSet+SpatialDBKit.h</key>
-		<data>
-		z6CTGeLPGlGPPqxBsGSoqLXFHTo=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			z6CTGeLPGlGPPqxBsGSoqLXFHTo=
+			</data>
+			<key>hash2</key>
+			<data>
+			kcI8AjlxUXjy+7KQkQp240nFsdNvfqodfObQJg9YfgM=
+			</data>
+		</dict>
 		<key>Headers/FMResultSet.h</key>
-		<data>
-		1zKZSIuKK6Busa4n3wtLzDDAs34=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			1zKZSIuKK6Busa4n3wtLzDDAs34=
+			</data>
+			<key>hash2</key>
+			<data>
+			TCTBe+VkOIAUeMuHltS6z1sXZg2V2g3J0FZsjWSU+kU=
+			</data>
+		</dict>
 		<key>Headers/ShapeKit.h</key>
-		<data>
-		SqfGxDMFD6I9WypMlXLtfKOmFrk=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			SqfGxDMFD6I9WypMlXLtfKOmFrk=
+			</data>
+			<key>hash2</key>
+			<data>
+			HbdOQ1TjX0NKrP5OIstAv7Ltnza6DWWrrTkL4J7nXSc=
+			</data>
+		</dict>
 		<key>Headers/ShapeKitFactory.h</key>
-		<data>
-		C7MV9rEHkmPDjQZ+xQWsjspUG3I=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			C7MV9rEHkmPDjQZ+xQWsjspUG3I=
+			</data>
+			<key>hash2</key>
+			<data>
+			kpPT6VN5jdv5Yb6QBm8ytFdfG5EmHdYis4C2m8WayHY=
+			</data>
+		</dict>
 		<key>Headers/ShapeKitGeometry+Predicates.h</key>
-		<data>
-		CLduml/wV0iiDnq7f9EEieaNlSE=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			CLduml/wV0iiDnq7f9EEieaNlSE=
+			</data>
+			<key>hash2</key>
+			<data>
+			5jDvElSQ1+J8qyEfQ0iiYfEX+zihdunhe5CNaSJr3xM=
+			</data>
+		</dict>
 		<key>Headers/ShapeKitGeometry+Topology.h</key>
-		<data>
-		NaDbNkjsXstNCWE+64CWAX1X+mY=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			NaDbNkjsXstNCWE+64CWAX1X+mY=
+			</data>
+			<key>hash2</key>
+			<data>
+			ovv29/pDD3EBxLMg2cJMRlubkerkn5DPrsi2JiIHT/w=
+			</data>
+		</dict>
 		<key>Headers/ShapeKitGeometry.h</key>
-		<data>
-		WsN54tw3xKN9ppjLq5FtwefJsv4=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			WsN54tw3xKN9ppjLq5FtwefJsv4=
+			</data>
+			<key>hash2</key>
+			<data>
+			ttfYBO6tHOzzneGPrXonqx50gebR7UEh0RRsLD21bAg=
+			</data>
+		</dict>
 		<key>Headers/ShapeKitPolyline+Linearref.h</key>
-		<data>
-		z+Z85HtlFCPXXw/E38I09Ai0Y5E=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			z+Z85HtlFCPXXw/E38I09Ai0Y5E=
+			</data>
+			<key>hash2</key>
+			<data>
+			+2DJ1ZQXkQotgNJ5OXWJsNewFMKHCjz8UOkd0zUn+1w=
+			</data>
+		</dict>
 		<key>Headers/SpatialDBKit.h</key>
-		<data>
-		xsTHGjXp3ryNdEHn0IKr6pFMiic=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			xsTHGjXp3ryNdEHn0IKr6pFMiic=
+			</data>
+			<key>hash2</key>
+			<data>
+			DzO9XDc+NOmdQAHHdwguoKz3lU0v2QWSIQvoE41jVrk=
+			</data>
+		</dict>
 		<key>Headers/SpatialDatabase.h</key>
-		<data>
-		DQmqqmL52zDEgYC2owx5DoHZZHQ=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			DQmqqmL52zDEgYC2owx5DoHZZHQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			hXX5Sotu1VBlLiPoJYdZthdmGm2BdbkKqOIlwF6C2mU=
+			</data>
+		</dict>
 		<key>Headers/SpatialDatabaseQueue.h</key>
-		<data>
-		dm4dkrDw2C9utf0qsnMKhzzPkC0=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			dm4dkrDw2C9utf0qsnMKhzzPkC0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Lxs0R0YW1b3t882Q99+97IDl03wT9bCZdxTnraPEgPE=
+			</data>
+		</dict>
 		<key>Headers/Spatialite.h</key>
-		<data>
-		7ItjVqGnTFIfhR8YW4uoSKzAxkI=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			7ItjVqGnTFIfhR8YW4uoSKzAxkI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Yt/EJJ3SP+7BjV4QpDcVreSR6I9ijIOnfVcpLmed3sE=
+			</data>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>

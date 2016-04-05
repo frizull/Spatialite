@@ -21,8 +21,17 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		3C6447AC1CB453EF00654091 /* mod_spatialite.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6447A61CB453EF00654091 /* mod_spatialite.a */; };
+		3C6447AD1CB453EF00654091 /* libspatialite.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6447A71CB453EF00654091 /* libspatialite.a */; };
+		3C6447AE1CB453EF00654091 /* libsqlite3.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6447A81CB453EF00654091 /* libsqlite3.a */; };
+		3C6447AF1CB453EF00654091 /* libgeos_c.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6447A91CB453EF00654091 /* libgeos_c.a */; };
+		3C6447B01CB453EF00654091 /* libgeos.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6447AA1CB453EF00654091 /* libgeos.a */; };
+		3C6447B11CB453EF00654091 /* libproj.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6447AB1CB453EF00654091 /* libproj.a */; };
+		3C6447B31CB456BB00654091 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6447B21CB456BB00654091 /* libz.tbd */; };
+		3C6447BE1CB45BF700654091 /* libiconv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6447B81CB4585200654091 /* libiconv.tbd */; };
+		3C6447C11CB45C0C00654091 /* libiconv.2.4.0.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6447BF1CB45C0C00654091 /* libiconv.2.4.0.tbd */; };
+		3C6447C21CB45C0C00654091 /* libiconv.2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C6447C01CB45C0C00654091 /* libiconv.2.tbd */; };
 		3C9264D61ADA0B1800E8F0A0 /* Spatialite.h in Headers */ = {isa = PBXBuildFile; fileRef = 3C9264D51ADA0B1800E8F0A0 /* Spatialite.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3C9268741ADA0BA400E8F0A0 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C9268731ADA0BA400E8F0A0 /* libz.dylib */; };
 		3CE51B601ADA12B200B6E539 /* FMResultSet+SpatialDBKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 3CE519861ADA12B100B6E539 /* FMResultSet+SpatialDBKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3CE51B611ADA12B200B6E539 /* FMResultSet+SpatialDBKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CE519871ADA12B100B6E539 /* FMResultSet+SpatialDBKit.m */; };
 		3CE51B621ADA12B200B6E539 /* SpatialDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = 3CE519881ADA12B100B6E539 /* SpatialDatabase.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -50,8 +59,6 @@
 		3CE51B791ADA12B200B6E539 /* libcharset.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CE519A31ADA12B100B6E539 /* libcharset.a */; };
 		3CE51B7A1ADA12B200B6E539 /* libgeos.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CE519A41ADA12B100B6E539 /* libgeos.a */; };
 		3CE51B7B1ADA12B200B6E539 /* libgeos_c.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CE519A51ADA12B100B6E539 /* libgeos_c.a */; };
-		3CE51B7C1ADA12B200B6E539 /* libiconv.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CE519A61ADA12B100B6E539 /* libiconv.a */; };
-		3CE51B7D1ADA12B200B6E539 /* libmod_spatialite.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CE519A71ADA12B100B6E539 /* libmod_spatialite.a */; };
 		3CE51B7E1ADA12B200B6E539 /* libproj.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CE519A81ADA12B100B6E539 /* libproj.a */; };
 		3CE51B7F1ADA12B200B6E539 /* libspatialite.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CE519A91ADA12B100B6E539 /* libspatialite.a */; };
 		3CE51B801ADA12B200B6E539 /* libsqlite3.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3CE519AA1ADA12B100B6E539 /* libsqlite3.a */; };
@@ -455,10 +462,19 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C6447A61CB453EF00654091 /* mod_spatialite.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = mod_spatialite.a; sourceTree = "<group>"; };
+		3C6447A71CB453EF00654091 /* libspatialite.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libspatialite.a; sourceTree = "<group>"; };
+		3C6447A81CB453EF00654091 /* libsqlite3.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libsqlite3.a; sourceTree = "<group>"; };
+		3C6447A91CB453EF00654091 /* libgeos_c.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libgeos_c.a; sourceTree = "<group>"; };
+		3C6447AA1CB453EF00654091 /* libgeos.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libgeos.a; sourceTree = "<group>"; };
+		3C6447AB1CB453EF00654091 /* libproj.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libproj.a; sourceTree = "<group>"; };
+		3C6447B21CB456BB00654091 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		3C6447B81CB4585200654091 /* libiconv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.tbd; path = usr/lib/libiconv.tbd; sourceTree = SDKROOT; };
+		3C6447BF1CB45C0C00654091 /* libiconv.2.4.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.2.4.0.tbd; path = usr/lib/libiconv.2.4.0.tbd; sourceTree = SDKROOT; };
+		3C6447C01CB45C0C00654091 /* libiconv.2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.2.tbd; path = usr/lib/libiconv.2.tbd; sourceTree = SDKROOT; };
 		3C9264D01ADA0B1800E8F0A0 /* Spatialite.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Spatialite.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C9264D41ADA0B1800E8F0A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3C9264D51ADA0B1800E8F0A0 /* Spatialite.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Spatialite.h; sourceTree = "<group>"; };
-		3C9268731ADA0BA400E8F0A0 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
 		3CE519861ADA12B100B6E539 /* FMResultSet+SpatialDBKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "FMResultSet+SpatialDBKit.h"; sourceTree = "<group>"; };
 		3CE519871ADA12B100B6E539 /* FMResultSet+SpatialDBKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "FMResultSet+SpatialDBKit.m"; sourceTree = "<group>"; };
 		3CE519881ADA12B100B6E539 /* SpatialDatabase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpatialDatabase.h; sourceTree = "<group>"; };
@@ -487,8 +503,6 @@
 		3CE519A31ADA12B100B6E539 /* libcharset.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libcharset.a; sourceTree = "<group>"; };
 		3CE519A41ADA12B100B6E539 /* libgeos.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libgeos.a; sourceTree = "<group>"; };
 		3CE519A51ADA12B100B6E539 /* libgeos_c.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libgeos_c.a; sourceTree = "<group>"; };
-		3CE519A61ADA12B100B6E539 /* libiconv.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libiconv.a; sourceTree = "<group>"; };
-		3CE519A71ADA12B100B6E539 /* libmod_spatialite.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libmod_spatialite.a; sourceTree = "<group>"; };
 		3CE519A81ADA12B100B6E539 /* libproj.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libproj.a; sourceTree = "<group>"; };
 		3CE519A91ADA12B100B6E539 /* libspatialite.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libspatialite.a; sourceTree = "<group>"; };
 		3CE519AA1ADA12B100B6E539 /* libsqlite3.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libsqlite3.a; sourceTree = "<group>"; };
@@ -895,17 +909,24 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C6447C11CB45C0C00654091 /* libiconv.2.4.0.tbd in Frameworks */,
+				3C6447C21CB45C0C00654091 /* libiconv.2.tbd in Frameworks */,
+				3C6447B31CB456BB00654091 /* libz.tbd in Frameworks */,
 				3CE51D151ADA1A8A00B6E539 /* CoreLocation.framework in Frameworks */,
-				3C9268741ADA0BA400E8F0A0 /* libz.dylib in Frameworks */,
 				3CE51B791ADA12B200B6E539 /* libcharset.a in Frameworks */,
 				3CE51B7A1ADA12B200B6E539 /* libgeos.a in Frameworks */,
 				3CE51B811ADA12B200B6E539 /* libxml2.a in Frameworks */,
 				3CE51B7F1ADA12B200B6E539 /* libspatialite.a in Frameworks */,
+				3C6447AC1CB453EF00654091 /* mod_spatialite.a in Frameworks */,
 				3CE51B7E1ADA12B200B6E539 /* libproj.a in Frameworks */,
 				3CE51B7B1ADA12B200B6E539 /* libgeos_c.a in Frameworks */,
-				3CE51B7D1ADA12B200B6E539 /* libmod_spatialite.a in Frameworks */,
-				3CE51B7C1ADA12B200B6E539 /* libiconv.a in Frameworks */,
+				3C6447AD1CB453EF00654091 /* libspatialite.a in Frameworks */,
+				3C6447BE1CB45BF700654091 /* libiconv.tbd in Frameworks */,
+				3C6447B11CB453EF00654091 /* libproj.a in Frameworks */,
+				3C6447AE1CB453EF00654091 /* libsqlite3.a in Frameworks */,
 				3CE51B801ADA12B200B6E539 /* libsqlite3.a in Frameworks */,
+				3C6447AF1CB453EF00654091 /* libgeos_c.a in Frameworks */,
+				3C6447B01CB453EF00654091 /* libgeos.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -915,6 +936,10 @@
 		3C9264C61ADA0B1800E8F0A0 = {
 			isa = PBXGroup;
 			children = (
+				3C6447BF1CB45C0C00654091 /* libiconv.2.4.0.tbd */,
+				3C6447C01CB45C0C00654091 /* libiconv.2.tbd */,
+				3C6447B81CB4585200654091 /* libiconv.tbd */,
+				3C6447B21CB456BB00654091 /* libz.tbd */,
 				3CE51D141ADA1A8A00B6E539 /* CoreLocation.framework */,
 				3C9264D21ADA0B1800E8F0A0 /* Spatialite */,
 				3C9264D11ADA0B1800E8F0A0 /* Products */,
@@ -936,7 +961,6 @@
 				3CE51D0C1ADA138300B6E539 /* PrivateHeaders */,
 				3C9264D51ADA0B1800E8F0A0 /* Spatialite.h */,
 				3CE519A21ADA12B100B6E539 /* Libraries */,
-				3C9268731ADA0BA400E8F0A0 /* libz.dylib */,
 				3C9264D31ADA0B1800E8F0A0 /* Supporting Files */,
 			);
 			path = Spatialite;
@@ -1008,11 +1032,15 @@
 		3CE519A21ADA12B100B6E539 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
+				3C6447A61CB453EF00654091 /* mod_spatialite.a */,
+				3C6447A71CB453EF00654091 /* libspatialite.a */,
+				3C6447A81CB453EF00654091 /* libsqlite3.a */,
+				3C6447A91CB453EF00654091 /* libgeos_c.a */,
+				3C6447AA1CB453EF00654091 /* libgeos.a */,
+				3C6447AB1CB453EF00654091 /* libproj.a */,
 				3CE519A31ADA12B100B6E539 /* libcharset.a */,
 				3CE519A41ADA12B100B6E539 /* libgeos.a */,
 				3CE519A51ADA12B100B6E539 /* libgeos_c.a */,
-				3CE519A61ADA12B100B6E539 /* libiconv.a */,
-				3CE519A71ADA12B100B6E539 /* libmod_spatialite.a */,
 				3CE519A81ADA12B100B6E539 /* libproj.a */,
 				3CE519A91ADA12B100B6E539 /* libspatialite.a */,
 				3CE519AA1ADA12B100B6E539 /* libsqlite3.a */,
@@ -2208,7 +2236,7 @@
 		3C9264C71ADA0B1800E8F0A0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0630;
+				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = "2GIK Sàrl";
 				TargetAttributes = {
 					3C9264CF1ADA0B1800E8F0A0 = {
@@ -2308,7 +2336,9 @@
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_BITCODE = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -2323,8 +2353,9 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -2349,6 +2380,7 @@
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_BITCODE = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -2358,7 +2390,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -2381,6 +2413,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Spatialite/Libraries",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "GIK.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = YES;
 				SKIP_INSTALL = YES;
@@ -2400,6 +2433,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Spatialite/Libraries",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = "GIK.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = YES;
 				SKIP_INSTALL = YES;
@@ -2448,6 +2482,7 @@
 				3CE51D5D1ADA330D00B6E539 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
