@@ -11,4 +11,4 @@
 
 3. Now this Pod is usable as any other.
 
-```pod 'Spatialite', :head
+```pod 'Spatialite', :head```
